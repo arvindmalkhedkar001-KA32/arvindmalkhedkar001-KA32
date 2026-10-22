@@ -72,12 +72,6 @@ More projects will be added as I gain experience and develop new skills.
 - Collaborate with other developers
 - Prepare for software development internships
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-ACTUAL-USERNAME&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-ACTUAL-USERNAME&layout=compact&theme=github_dark&hide_border=true)
-
 ## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
